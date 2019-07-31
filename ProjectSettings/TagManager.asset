@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Destructable
+  - BGs
+  - Listener
+  - Coins
+  - Crate
+  - Enemy
+  - PauseMenu
+  - Canvas
+  - OH
+  - Floor
+  - Crystal
+  - Star_Slider
+  - Magnet_Slider
+  - Shroom_Slider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1665997189
+    locked: 0
+  - name: BackGround
+    uniqueID: 107069095
+    locked: 0
+  - name: Decoration
+    uniqueID: 3927386853
+    locked: 0
+  - name: Objects
+    uniqueID: 614798125
+    locked: 0
